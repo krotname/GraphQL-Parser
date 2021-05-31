@@ -26,6 +26,11 @@
             <version>5.7.2</version>
             <scope>test</scope>
         </dependency>
+        <dependency>
+            <groupId>org.mountcloud</groupId>
+            <artifactId>graphql-client</artifactId>
+            <version>1.2</version>
+        </dependency>
 
     </dependencies>
 

@@ -1,6 +1,8 @@
 package name.krot;
 
 public class TestEntity {
+
+    // {data={product=[{name=Василиск, color=Белый, created_at=2020-02-02T00:00:00+00:00, secret=false}, {name=Falcon Heavy, color=Белый, created_at=2021-02-02T00:00:00+00:00, secret=false}]}}
     private  String color;
     private  String name;
     private  String created_at;
